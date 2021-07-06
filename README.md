@@ -10,7 +10,7 @@ My name is Carlos Eduardo Dias but ~~almost~~ everyone call me Carz. I'm a 22 ye
 
 I am currently finishing my Electrical Engineering Major Degree at Federal University of Pará and aiming to work with Software Engineering and Web Development related things. Also i'm currently studying about algorithms and improving my problem solving skills with my Competitive Programming team 🥇.
 
-If you're interested in contact me for working in some cool project or just tell me a joke, you can send me a message in any of the social medias below 😉
+If you're interested in contact me for working in some cool project or just tell me a joke, you can send me a message in any of the social contacts below 😉
 
 <p align="left">
   <a href="https://www.linkedin.com/in/carz-dias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;
