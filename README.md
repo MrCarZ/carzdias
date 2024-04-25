@@ -6,9 +6,13 @@
 
 ## About Me 👍
 
-My name is Carlos Eduardo Dias but ~~almost~~ everyone call me Carz. I'm a 22 years-old Brazilian who beholds beauty in the idea of creating technology related things since I was a child. When I started college I searched for all kind of tech-related topics and then got passionated about Software Engineering, Problem Solving and Electronics. Additionally, my love for anime/mangá heros made me an irremediable dreamer that aspires to create things that can improve people's lives.
+My name is Carlos Eduardo Dias but ~~almost~~ everyone call me Carz. I'm a 25 years-old Brazilian who beholds beauty in the idea of creating technology related things since I was a child. When I started college I searched for all kind of tech-related topics and then got passionated about Software Engineering, Problem Solving and Electronics. Additionally, my love for anime/mangá heros made me an irremediable dreamer that aspires to create things that can improve people's lives.
 
-I am currently finishing my Electrical Engineering Major Degree at Federal University of Pará and aiming to work with Software Engineering and Web Development related things. Also i'm currently studying about algorithms and improving my problem solving skills with my Competitive Programming team 🥇.
+I've graduated in Electrical Engineering Major at Federal University of Pará (UFPA), focusing mainly on the topics of Internet of Things and Software Engineering.
+
+I am currently starting a Masters Degree at Federal University of Santa Catarina (UFSC), studying and aiming to research on Distributed Systems and Parallel Computing.
+
+I also have a strong background in Algorithms Design and Analysis, given my participation for several years as a Competitive Programmer representing UFPA, in which I've participated twice as a national finalist at the "Maratona de Programação SBC".
 
 If you're interested in contact me for working in some cool project or just tell me a joke, you can send me a message in any of the social contacts below 😉
 
